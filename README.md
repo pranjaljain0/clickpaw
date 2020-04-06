@@ -1,4 +1,4 @@
-# ClickPAW
+# ClickPAW - Job finder app
 
 A Job searching application screen made with react native.
 
